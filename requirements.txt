@@ -1,0 +1,4 @@
+boto3
+google-cloud-secret-manager
+google-crc32c
+google-api-core
